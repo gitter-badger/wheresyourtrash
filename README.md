@@ -1,10 +1,13 @@
+[![Stories in Ready](https://badge.waffle.io/mainecivichackday/wheresyourtrash.png?label=ready&title=Ready)](https://waffle.io/mainecivichackday/wheresyourtrash)
 Where's Your Trash?
 ===================
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/code4maine/wheresyourtrash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mainecivichackday/wheresyourtrash](https://badges.gitter.im/mainecivichackday/wheresyourtrash.svg)](https://gitter.im/mainecivichackday/wheresyourtrash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/Code4Maine/wheresyourtrash](https://badges.gitter.im/Code4Maine/wheresyourtrash.svg)](https://gitter.im/Code4Maine/wheresyourtrash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build
-Status](https://travis-ci.org/code4maine/wheresyourtrash.svg?branch=master)](https://travis-ci.org/code4maine/wheresyourtrash)
+Status](https://travis-ci.org/Code4Maine/wheresyourtrash.svg?branch=master)](https://travis-ci.org/Code4Maine/wheresyourtrash)
 
 It seemed so simple. When is the city coming to pick up your trash? So why
 do we keep forgetting? Well, it doesn't help when recycling is every other
